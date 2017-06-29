@@ -1,0 +1,15 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\03-Collections-LINQ-SystemIO-DateTime\Asssessments\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\sflem\Desktop\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\sflem\Desktop\LINQ\bin\Debug\Customers.xml
+C:\Users\sflem\Desktop\LINQ\bin\Debug\LINQ.exe
+C:\Users\sflem\Desktop\LINQ\bin\Debug\LINQ.pdb
+C:\Users\sflem\Desktop\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\sflem\Desktop\LINQ\obj\Debug\LINQ.exe
+C:\Users\sflem\Desktop\LINQ\obj\Debug\LINQ.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\bin\Debug\Customers.xml
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
